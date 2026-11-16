@@ -1,0 +1,6 @@
+LES/Data/
+
+*.nc
+*.T3D
+*.X3D
+__pycache__/
